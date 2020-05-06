@@ -1,0 +1,1 @@
+Here I have used the same data and preprocessing as in the Logistic regression. The only major differnece here is that the algorithm used is different and a word doc is generated represntig the tree which i have put in the <b>./results/</b> folder.
