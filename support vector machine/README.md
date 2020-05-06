@@ -1,1 +1,2 @@
 Here we have two examples of SVM. The first is a basic algorithm on a social networks dataset. The second is different SVM kernels on iris dataset. In the second one I have also plotted how the algorithm works. All datasets are available in the <b>./datasets/</b> folder and all results and plots are in the <b>./results/</b> folder.
+<img src="https://github.com/anxrxdh/basic_algorithms/blob/master/support%20vector%20machine/results/svm-plot-all.png">
