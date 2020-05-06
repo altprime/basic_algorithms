@@ -1,2 +1,3 @@
 Performed logsitc regression on Telecom Churn Data. Biggest learning in this was dealing with whitespaces because it took me foreever to figure out why I kept getting an error. Luckily someone had adderessed a similar issue on stakoverflow!<br>
-There's isn't much in Logistic Regression that can be plotted but I still put in %Churn pie chart which will be in the <b>./results/</b> folder and the dataset is in the <b>./dataset/</b> folder.
+There's isn't much in Logistic Regression that can be plotted but I still put in %Churn pie chart which will be in the <b>./results/</b> folder and the dataset is in the <b>./dataset/</b> folder.<br>
+Additionally, I will be using the same data and preprocessing to perform Random forest. Also, a lot of visual analysis can be done on this data and I will put that in a seperate repo in the near future.
